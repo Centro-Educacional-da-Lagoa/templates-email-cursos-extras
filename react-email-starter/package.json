@@ -1,0 +1,26 @@
+{
+  "name": "react-email-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "email dev"
+  },
+  "author": "Jorge William",
+  "license": "ISC",
+  "dependencies": {
+    "@react-email/button": "0.0.11",
+    "@react-email/container": "0.0.10",
+    "@react-email/head": "0.0.6",
+    "@react-email/hr": "0.0.6",
+    "@react-email/html": "0.0.6",
+    "@react-email/img": "0.0.6",
+    "@react-email/preview": "0.0.7",
+    "@react-email/row": "0.0.6",
+    "@react-email/section": "0.0.10",
+    "@react-email/tailwind": "0.0.12",
+    "@react-email/text": "0.0.6",
+    "react-email": "1.9.5"
+  }
+}

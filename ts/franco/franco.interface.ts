@@ -1,4 +1,6 @@
-export interface EmailFranco {
+interface EmailParams {
     nome: string;
-    cursos: [ string ],
+    cursos: string[],
 }
+
+export default EmailParams

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-email/column": "0.0.8"
+  }
+}
